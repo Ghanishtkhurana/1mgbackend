@@ -1,5 +1,5 @@
 const express = require("express")
-const { HairModel } = require("../Models/Haircare.mdel")
+const { HairModel } = require("../models/Haircare.mdel")
 
 
 
