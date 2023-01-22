@@ -1,5 +1,5 @@
 const express = require("express")
-const { HerbModel } = require("../Models/Herbs.model")
+const { HerbModel } = require("../models/Herbs.model")
 
 
 const HerbsRoute = express.Router()

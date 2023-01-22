@@ -1,5 +1,5 @@
 const express = require("express")
-const { DigestModel } = require("../Models/Digestive.model")
+const { DigestModel } = require("../models/Digestive.model")
 
 
 
